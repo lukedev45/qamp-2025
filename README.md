@@ -48,7 +48,7 @@ During mentoring period (> 5 hours per week)
 ## Frequently Asked Questions
 
 ### Q: Who is eligible to apply?
-A: QAMP is an exclusive offering for Qiskit advocates. You need to become a Qiskit advocates to apply for the program. Read [here](https://github.com/qiskit-advocate/application-guide](https://www.ibm.com/quantum/community#advocates) for more information about how to become a Qiskit advocate.
+A: QAMP is an exclusive offering for Qiskit advocates. You need to become a Qiskit advocates to apply for the program. Read [here](https://www.ibm.com/quantum/community#advocates) for more information about how to become a Qiskit advocate.
 
 ### Q: Can mentees propose projects?
 A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-2025/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
@@ -64,4 +64,4 @@ A: You will be matched based on the project preference and interest areas indica
 
 ## Acknowledgement
 
-Special thanks to Gemma Dawson, Junye Huange and the classic advocate squad for their hard work in shaping the previous QAMP cohorts. Additionally, thanks to [Amira Abbas](https://github.com/amyami187), [Diego Emilio Serrano](https://github.com/diemilio), [Julien Gacon](https://github.com/Cryoris) and [Michał Stęchły](https://github.com/mstechly) for sharing their experiences and insights from [qosf mentorship program](https://qosf.org/qc_mentorship/) which were crucial in shaping this mentorship program for Qiskit advocates.
+Special thanks to Gemma Dawson, Junye Huang and the classic advocate squad for their hard work in shaping the previous QAMP cohorts. Additionally, thanks to [Amira Abbas](https://github.com/amyami187), [Diego Emilio Serrano](https://github.com/diemilio), [Julien Gacon](https://github.com/Cryoris) and [Michał Stęchły](https://github.com/mstechly) for sharing their experiences and insights from [qosf mentorship program](https://qosf.org/qc_mentorship/) which were crucial in shaping this mentorship program for Qiskit advocates.
