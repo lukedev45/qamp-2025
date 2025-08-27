@@ -80,3 +80,10 @@ I am looking for a mentee with basic Python programming skills and some familiar
 - **Time commitment:** [Expected hours per week]
 - **Prerequisites:** [Any specific knowledge, tools, or setup required]
 - **Resources:** [Any specific hardware, software, or access requirements]
+
+---
+
+Checklist after creating this issue:
+- [ ] Submit the [2025 Mentor Sign-up Form](https://airtable.com/appjU5TOUDYPwBIqO/pagKT6723KMerYQyc/form) if I am a mentor
+OR
+- [ ] Submit the [2025 QAMP Application Form](https://airtable.com/appjU5TOUDYPwBIqO/pag87bISFuNK9kAiK/form) if I am a mentee
