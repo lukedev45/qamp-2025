@@ -1,6 +1,6 @@
 # QAMP 2025 Cohort
 
-This is the official repository for the QAMP 2025 cohort (October - December 2025) where projects and checkpoints are documented throughout the program.
+This is the official repository for the QAMP 2025 cohort (October 2025 - January 2026) where projects and checkpoints are documented throughout the program.
 
 ## What is QAMP?
 
@@ -21,12 +21,12 @@ Link to the application form is shared in the `#qiskit-advocates` channel on Qis
 
 *Notes: dates are not finalized and subject to change.*
 
-- Application: 14 - 31 March 2023
-- Mentor - mentee pairing: 1 - 10 April 2023
-- Kick-off: 11 April 2023
-- Checkpoint 1: 9 May 2023
-- Checkpoint 2: 6 June 2023
-- Final showcase: 11 July 2023
+- Application: 
+- Mentor - mentee pairing: 
+- Kick-off: 
+- Checkpoint 1: 
+- Checkpoint 2: 
+- Final showcase:
 
 ## Commitment from mentees
 
@@ -36,7 +36,7 @@ During application period (a few hours)
 - Demonstrate level of expertise in quantum computing and coding skills.
     - Examples: pull requests to Qiskit GitHub repos, blogpost style Qiskit tutorials, research papers.
     - If you want to increase your chance of being selected, you can fix an issue on [Qiskit GitHub repos](https://github.com/Qiskit) during the application period. A good place to start are issues with tag ["good first issues"](https://github.com/Qiskit/qiskit-terra/issues?page=1&q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+sort%3Aupdated-asc+-label%3A%22status%3A+pending+PR%22).
-- Submit the [application form](#application).
+- Submit the [application form](https://airtable.com/appjU5TOUDYPwBIqO/pag87bISFuNK9kAiK/form).
 
 During mentoring period (> 5 hours per week)
 - Discuss with your mentor to refine project details and define deliverables. (during the first 2 weeks)
@@ -48,10 +48,10 @@ During mentoring period (> 5 hours per week)
 ## Frequently Asked Questions
 
 ### Q: Who is eligible to apply?
-A: QAMP is an exclusive offering for Qiskit advocates. You need to become a Qiskit advocates to apply for the program. Read [here](https://github.com/qiskit-advocate/application-guide) for more information about how to become a Qiskit advocate.
+A: QAMP is an exclusive offering for Qiskit advocates. You need to become a Qiskit advocates to apply for the program. Read [here](https://github.com/qiskit-advocate/application-guide](https://www.ibm.com/quantum/community#advocates) for more information about how to become a Qiskit advocate.
 
 ### Q: Can mentees propose projects?
-A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-spring-23/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
+A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-2025/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
 
 ### Q: I don't have much programming experience, can I still apply?
 A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor.
@@ -59,9 +59,9 @@ A: Yes! The mentorship program is meant for developing your skills. Some project
 ### Q: How long is the mentorship program?
 A: The official mentoring period is 3 months. See [here](#important-dates) for the important dates.
 
-### Q: How does a mentor and a mentee gets matched?
+### Q: How do a mentor and a mentee get matched?
 A: You will be matched based on the project preference and interest areas indicated in your application form as well as the evidence you have provided to demonstrate your experience and commitment.
 
 ## Acknowledgement
 
-Special thanks to [Amira Abbas](https://github.com/amyami187), [Diego Emilio Serrano](https://github.com/diemilio), [Julien Gacon](https://github.com/Cryoris) and [Michał Stęchły](https://github.com/mstechly) for sharing their experiences and insights from [qosf mentorship program](https://qosf.org/qc_mentorship/) which were crucial in shaping this mentorship program for Qiskit advocates.
+Special thanks to Gemma Dawson, Junye Huange and the classic advocate squad for their hard work in shaping the previous QAMP cohorts. Additionally, thanks to [Amira Abbas](https://github.com/amyami187), [Diego Emilio Serrano](https://github.com/diemilio), [Julien Gacon](https://github.com/Cryoris) and [Michał Stęchły](https://github.com/mstechly) for sharing their experiences and insights from [qosf mentorship program](https://qosf.org/qc_mentorship/) which were crucial in shaping this mentorship program for Qiskit advocates.
