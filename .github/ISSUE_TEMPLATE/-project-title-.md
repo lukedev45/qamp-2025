@@ -27,7 +27,7 @@ assignees: ''
 - [ ] 
 - [ ] 
 
-**Minimal Viable Project (MVP):**
+**Minimal Viable Product (MVP):**
 - [ ] 
 
 **Examples of deliverables include:**
