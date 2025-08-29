@@ -6,6 +6,11 @@ This is the official repository for the QAMP 2025 cohort (October 2025 - January
 
 Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors.
 
+*Mentees* can expect to learn how to contribute to quantum computing advancement. Participants more experienced in open-source development can hone and develop specialized skills. Mentees must be Qiskit advocates.
+
+*Mentors* can expect to develop leadership and teamwork skills, while making a significant impact on the next generation of quantum developers and leaders.
+
+
 You can find information about the previous cohorts here:
 - [QAMP Spring 23](https://github.com/qiskit-advocate/qamp-spring-23)
 - [QAMP Fall 22](https://github.com/qiskit-advocate/qamp-fall-22)
@@ -21,12 +26,12 @@ Link to the application form is shared in the `#qiskit-advocates` channel on Qis
 
 *Notes: dates are not finalized and subject to change.*
 
-- Application: 
-- Mentor - mentee pairing: 
-- Kick-off: 
-- Checkpoint 1: 
-- Checkpoint 2: 
-- Final showcase:
+- Application: September 2025
+- Mentor - mentee pairing: September - October
+- Kick-off: October 15 
+- Checkpoint 1: Mid-November
+- Checkpoint 2: Mid-December
+- Final showcase: 
 
 ## Commitment from mentees
 
@@ -39,7 +44,7 @@ During application period (a few hours)
 - Submit the [application form](https://airtable.com/appjU5TOUDYPwBIqO/pag87bISFuNK9kAiK/form).
 
 During mentoring period (> 5 hours per week)
-- Discuss with your mentor to refine project details and define deliverables. (during the first 2 weeks)
+- Discuss with your mentor to refine project details and define deliverables. (During the first 2 weeks)
 - Work on a project with guidance from your mentor. You should dedicate at least 5 hours per week for a meaningful mentorship experience.
 - Meet with your mentor regularly to report progress and get feedbacks. (1 hour call every week).
 - Present project ideas and progress in the two checkpoints.
@@ -47,20 +52,61 @@ During mentoring period (> 5 hours per week)
 
 ## Frequently Asked Questions
 
-### Q: Who is eligible to apply?
-A: QAMP is an exclusive offering for Qiskit advocates. You need to become a Qiskit advocates to apply for the program. Read [here](https://www.ibm.com/quantum/community#advocates) for more information about how to become a Qiskit advocate.
+#### Q: Who is eligible to apply?
+A: Participating in QAMP as a mentee is exclusive to Qiskit advocates. You need to become a Qiskit advocates to apply for the program. Read [here](https://www.ibm.com/quantum/community#advocates) for more information about how to become a Qiskit advocate. 
 
-### Q: Can mentees propose projects?
-A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-2025/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
+Mentors do not need to be Qiskit advocates.
 
-### Q: I don't have much programming experience, can I still apply?
-A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor.
 
-### Q: How long is the mentorship program?
+#### Q: How long is the mentorship program?
 A: The official mentoring period is 3 months. See [here](#important-dates) for the important dates.
 
-### Q: How do a mentor and a mentee get matched?
+#### Q: How do a mentor and a mentee get matched?
 A: You will be matched based on the project preference and interest areas indicated in your application form as well as the evidence you have provided to demonstrate your experience and commitment.
+
+
+### For prospective mentees:
+
+#### Q: Can mentees propose projects?
+A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-2025/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
+
+#### Q: I don't have much programming experience, can I still apply?
+A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor.
+
+#### Q: What can I expect to gain out of being a QAMP mentee?
+- Networking
+- Improved skills in project topics
+- Published papers or other deliverables 
+- Professional development experience
+
+#### Q: What is the expected time commitment?
+Time commitment varies across projects and is noted on each project issue. However, we expect QAMP to require approximately 4-8 hours of your time per week.
+
+#### Q: Is this program worth my time?
+In previous QAMP surveys, 90% of responding mentees agreed or strongly agreed that the program improved their quantum skills.​
+
+### For prospective mentors:
+
+#### Q:  What can I expect to gain out of being a QAMP mentor?
+- Opportunity to share your knowledge and develop leadership skills
+- Learn through teaching
+- Opportunity to shape the Qiskit community and future leaders in quantum computing
+
+#### Q:  What is the role of a mentor?
+- Help mentees understand core concepts and techniques
+- Provide mentees with feedback
+- Help mentees find relevant learning/research materials
+- Project and people management
+
+#### Q:  What is the expected time commitment?
+Being a mentor takes approximately 1-3 hours per week for the duration of the program, plus a couple of hours for the mentee matching process. During the program, you should meet with your mentees at a mutually agreed-upon frequency (usually weekly).
+
+#### Q:  Is this program worth my time?
+In previous QAMP surveys, 88% of responding mentors agreed or strongly agreed that the program was a worthwhile use of their time.​
+
+#### Q: Do I need to be a Qiskit advocate to be a QAMP mentor?
+No. 
+
 
 ## Acknowledgement
 
