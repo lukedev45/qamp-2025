@@ -77,8 +77,7 @@ A: The official mentoring period is 3 months. See [here](#important-dates) for t
 #### Q: How do a mentor and a mentee get matched?
 A: You will be matched based on the project preference and interest areas indicated in your application form as well as the evidence you have provided to demonstrate your experience and commitment.
 
-#### Q: By when should I propose a project? 
-Asap. Prospective mentee applications will be sent to you on a rolling basis from mid-September onwards. Proposal submissions close on 30 Sept.
+
 
 
 ### For prospective mentees:
@@ -123,6 +122,8 @@ In previous QAMP surveys, 88% of responding mentors agreed or strongly agreed t
 #### Q: Do I need to be a Qiskit advocate to be a QAMP mentor?
 No. 
 
+#### Q: By when should I propose a project? 
+Asap. Prospective mentee applications will be sent to you on a rolling basis from mid-September onwards. Proposal submissions close on 30 Sept.
 
 ## Acknowledgement
 
