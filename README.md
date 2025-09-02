@@ -4,7 +4,9 @@ This is the official repository for the QAMP 2025 cohort (October 2025 - January
 
 ## What is QAMP?
 
-Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors.
+Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors. It is an initiative designed to support growth and collaboration within our vibrant community. 
+
+See the QAMP Call.
 
 *Mentees* can expect to learn how to contribute to quantum computing advancement. Participants more experienced in open-source development can hone and develop specialized skills. Mentees must be Qiskit advocates.
 
@@ -20,7 +22,7 @@ You can find information about the previous cohorts here:
 
 ## Application
 
-Link to the application form is shared in the `#qiskit-advocates` channel on Qiskit Slack workspace (only accessible to Qiskit advocates)
+Link to the application form is shared in the the Qiskit Advocate Hub on Discord and the advocate-only spaces in Qiskit Slack.
 
 ## Important dates
 
@@ -41,7 +43,7 @@ During application period (a few hours)
 - Demonstrate level of expertise in quantum computing and coding skills.
     - Examples: pull requests to Qiskit GitHub repos, blogpost style Qiskit tutorials, research papers.
     - If you want to increase your chance of being selected, you can fix an issue on [Qiskit GitHub repos](https://github.com/Qiskit) during the application period. A good place to start are issues with tag ["good first issues"](https://github.com/Qiskit/qiskit-terra/issues?page=1&q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+sort%3Aupdated-asc+-label%3A%22status%3A+pending+PR%22).
-- Submit the [application form](https://airtable.com/appjU5TOUDYPwBIqO/pag87bISFuNK9kAiK/form).
+- Submit the application form (link shared in the the Qiskit Advocate Hub on Discord and the advocate-only spaces in Qiskit Slack).
 
 During mentoring period (> 5 hours per week)
 - Discuss with your mentor to refine project details and define deliverables. (During the first 2 weeks)
@@ -49,6 +51,18 @@ During mentoring period (> 5 hours per week)
 - Meet with your mentor regularly to report progress and get feedbacks. (1 hour call every week).
 - Present project ideas and progress in the two checkpoints.
 - Present final outcome in the final showcase
+
+## Commitment from mentors
+
+During mentoring period (1-3 hours per week)
+- 3 month mentorship
+- Propose project ideas
+- Selecting mentees (estimated 2 hours to review applications)
+- 30~60 min call every week or every 2 weeks
+- Attend checkpoints and final showcase calls
+
+Sign up to be a mentor at [ibm.biz/qamp2025-mentor](https://ibm.biz/qamp2025-mentor).
+
 
 ## Frequently Asked Questions
 
@@ -71,7 +85,7 @@ A: You will be matched based on the project preference and interest areas indica
 A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-advocate/qamp-2025/issues) during the application period. If a mentor is interested in your project, you will be matched to work on the project.
 
 #### Q: I don't have much programming experience, can I still apply?
-A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor.
+A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor. Some projects focus on supporting individuals to make their first PR to Qiskit or the Qiskit ecosystem. You may also apply to a project that is less focused on code (e.g., tutorial or blog writing).
 
 #### Q: What can I expect to gain out of being a QAMP mentee?
 - Networking
