@@ -6,12 +6,11 @@ This is the official repository for the QAMP 2025 cohort (October 2025 - January
 
 Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors. It is an initiative designed to support growth and collaboration within our vibrant community. 
 
-See the QAMP Call.
+Access the QAMP information deck [here]().
 
 *Mentees* can expect to learn how to contribute to quantum computing advancement. Participants more experienced in open-source development can hone and develop specialized skills. Mentees must be Qiskit advocates.
 
 *Mentors* can expect to develop leadership and teamwork skills, while making a significant impact on the next generation of quantum developers and leaders.
-
 
 You can find information about the previous cohorts here:
 - [QAMP Spring 23](https://github.com/qiskit-advocate/qamp-spring-23)
@@ -33,7 +32,7 @@ Link to the application form is shared in the the Qiskit Advocate Hub on Discord
 - Kick-off: October 15 
 - Checkpoint 1: Mid-November
 - Checkpoint 2: Mid-December
-- Final showcase: 
+- Final showcase: End of January 2026
 
 ## Commitment from mentees
 
@@ -77,6 +76,9 @@ A: The official mentoring period is 3 months. See [here](#important-dates) for t
 
 #### Q: How do a mentor and a mentee get matched?
 A: You will be matched based on the project preference and interest areas indicated in your application form as well as the evidence you have provided to demonstrate your experience and commitment.
+
+#### Q: By when should I propose a project? 
+Asap. Prospective mentee applications will be sent to you on a rolling basis from mid-September onwards. Proposal submissions close on 30 Sept.
 
 
 ### For prospective mentees:
