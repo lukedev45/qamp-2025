@@ -4,7 +4,7 @@ This is the official repository for the QAMP 2025 cohort (October 2025 - January
 
 ## What is QAMP?
 
-Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors. It is an initiative designed to support growth and collaboration within our vibrant community. 
+Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors. It is an initiative designed to support growth and collaboration within our vibrant community. 
 
 Access the QAMP information deck [here](https://ibm.box.com/v/qamp2025_call).
 
