@@ -86,4 +86,4 @@ I am looking for a mentee with basic Python programming skills and some familiar
 Checklist after creating this issue:
 - [ ] Submit the [2025 Mentor Sign-up Form](https://airtable.com/appjU5TOUDYPwBIqO/pagKT6723KMerYQyc/form) if I am a mentor
 OR
-- [ ] Submit the [2025 QAMP Application Form](https://airtable.com/appjU5TOUDYPwBIqO/pag87bISFuNK9kAiK/form) if I am a mentee
+- [ ] Submit the 2025 QAMP Application Form if I am a mentee (link in Slack and Discord)
