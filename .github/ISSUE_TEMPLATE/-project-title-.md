@@ -77,7 +77,7 @@ I am looking for a mentee with basic Python programming skills and some familiar
 ---
 
 **Additional Information:**
-- **Time commitment:** [Expected hours per week]
+- **Time commitment (for mentees):** [Expected hours per week] (Note: mentor time commitment is up to 2-3 hours per week)
 - **Prerequisites:** [Any specific knowledge, tools, or setup required]
 - **Resources:** [Any specific hardware, software, or access requirements]
 
