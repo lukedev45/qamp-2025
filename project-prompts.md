@@ -1,4 +1,4 @@
-### Interested in getting involved in QAMP 2025 but not able to think of a project proposal?
+### Interested in getting involved in QAMP 2025 but unable to think of a project proposal?
 
 **Here are some categories and examples to help get you started:**
 
