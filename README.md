@@ -2,6 +2,8 @@
 
 This is the official repository for the QAMP 2025 cohort (October 2025 - January 2026) where projects and checkpoints are documented throughout the program.
 
+_The administrators of this repo are Radha Pyari Sandhir (quantum-kittens) and Astri Cornish (Astri-Cornish)._
+
 ## What is QAMP?
 
 Qiskit Advocate Mentorship Program (QAMP) is a program focused on bring new contributors into Qiskit open source software development where Qiskit advocates work on a 3-month projects under the guidance of mentors. It is an initiative designed to support growth and collaboration within our vibrant community. 
